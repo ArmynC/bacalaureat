@@ -6,7 +6,8 @@ Lista cu alte materiale aditionale:
 
 ### Romana
 [Eseul - Varianta rapida](https://www.art-educational.ro/info/carte/bacalaureat-eseul-varianta-rapida-pregatire-pentru-examen)
-*Operele "Maria Dius" au acelasi continut, diferenta caracterizandu-se printr-o complexitate mai ridicata, cu precadere pentru profilul Uman.*
+
+*Operele "Maria Dius" au la baza continutul culegerii, caracterizandu-se printr-o complexitate mai ridicata, cu precadere pentru profilul Uman.*
 
 [Eseul Argumentativ](https://www.art-educational.ro/info/carte/eseul-argumentativ-pregatire-pentru-bacalaureat)
 
