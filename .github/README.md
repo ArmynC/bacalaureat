@@ -1,5 +1,3 @@
-# ArminC-Bac
-
 > Arhiva cu resurse folositoare pentru Bacalaureat, profilul Matematica-Informatica Real (M1).
 
 Lista cu alte materiale aditionale:
