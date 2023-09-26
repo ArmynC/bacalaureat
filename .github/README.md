@@ -1,5 +1,6 @@
 > [!NOTE]  
 > Arhiva cu resurse folositoare pentru Bacalaureat, profilul Matematica-Informatica Real (M1).
+<br>
 
 Lista cu alte materiale aditionale:
 
